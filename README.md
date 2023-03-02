@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Saurabh--Pratap-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/07-manish-verma/)](https://www.linkedin.com/in/manish-verma-9626701b5/)
+[![Linkedin Badge](https://img.shields.io/badge/-Saurabh--Pratap--Singh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/07-manish-verma/)](https://www.linkedin.com/in/saurabh-pratap-singh-1611b923a/)
 [![Twitter Badge](https://img.shields.io/badge/-%40Manish4387-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manishVa22310248)](https://twitter.com/Manish4387)
 [![Website Badge](https://img.shields.io/badge/-Manish--Verma-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manish-verma-portfolio.vercel.app/)](https://SaurabhPratapSingh399.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-manish119427-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:surabpratapsingh1116@gmail.com)](mailto:surabpratapsingh1116@gmail.com)
