@@ -18,8 +18,7 @@
 
 - 🔭 I’m currently preparing for placements!.
 - 🌱 I’m currently learning MERN Stack.
-<!-- need to add resume drive link -->
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1XAv9exk9MValhis3FlJQZM9Q0kkw-Dwu/view?usp=sharing) 
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1WbNiBfyAYTUnR_IljRScO_OstonyNEYC/view?usp=share_link) 
 - 💻 Know more about me [Portfilio](https://SaurabhPratapSingh399.github.io/)
 - 💻 All of my projects are available at My [Github Repositories](https://github.com/SaurabhPratapSingh399?tab=repositories)
 
